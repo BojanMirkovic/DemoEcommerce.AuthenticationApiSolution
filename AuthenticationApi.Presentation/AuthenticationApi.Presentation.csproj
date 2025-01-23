@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\AuthenticationApi.Infrastructure\AuthenticationApi.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
